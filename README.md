@@ -6,6 +6,9 @@ Bu projenin amacı, kredi kartı dolandırıcılığı tespitinde kullanılabile
 Özellikle şu adımları gerçekleştireceğiz:
 
 Verinin keşfi ve ön işlenmesi,
+
 Dengesiz veri sorununu çözmek için SMOTE gibi yöntemlerin uygulanması,
+
 Çeşitli makine öğrenmesi modellerinin kullanılması ve performanslarının değerlendirilmesi.
+
 Sonuç olarak, doğru ve etkin bir dolandırıcılık tespiti modeli geliştirerek bu tür vakaların önlenmesine katkı sağlamayı hedefliyoruz.
