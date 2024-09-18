@@ -1,4 +1,6 @@
 🔍Proje Amacı: Kredi Kartı Dolandırıcılığı Tespiti 💳🛡️¶
+
+
 Bu projenin amacı, kredi kartı dolandırıcılığı tespitinde kullanılabilecek bir makine öğrenmesi modeli geliştirmektir. Kredi kartı işlemlerinin büyük çoğunluğu güvenli olsa da, dolandırıcılık durumları hem bankalar hem de kullanıcılar için önemli bir mali risk oluşturur. Bu çalışmada, dengesiz veri seti yapısıyla başa çıkmak için uygun teknikleri kullanarak dolandırıcılık tespit etmeyi amaçlıyoruz.
 
 Özellikle şu adımları gerçekleştireceğiz:
