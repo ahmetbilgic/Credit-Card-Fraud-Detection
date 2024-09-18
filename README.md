@@ -1,3 +1,6 @@
+dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 🔍Proje Amacı: Kredi Kartı Dolandırıcılığı Tespiti 💳🛡️¶
 
 
